@@ -1,7 +1,7 @@
 import React , { useContext } from 'react';
 import AuthContext from '../../Context/auth';
 import TodosContext from '../../Context/todos';
-import {Link , NavLink} from 'react-router-dom'
+import { NavLink} from 'react-router-dom'
 
 
 function Header() {
